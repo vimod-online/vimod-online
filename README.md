@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi, I'm Vimod!<br>I'm a Full Stack Developer and Designer passionate about building user-friendly, efficient, and visually appealing web applications. My expertise spans from creating beautiful front-end interfaces to ensuring smooth back-end functionality. I love combining my skills in design and development to deliver complete solutions.
 
 
